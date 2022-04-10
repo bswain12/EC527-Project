@@ -1,3 +1,5 @@
 To pull from the develop branch use:
 git pull origin develop
 
+To compile:
+make -f bhmakefile 
